@@ -1,2 +1,3 @@
+nginx
 ghcr.io/autowarefoundation/autoware-universe:latest-cuda
 python:alpine3.19
