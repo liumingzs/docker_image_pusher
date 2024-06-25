@@ -1,5 +1,2 @@
-#支持私库
 autoware-universe
 python:alpine3.19
-#支持指定架构
---platform=linux/arm64 xiaoyaliu/alist
